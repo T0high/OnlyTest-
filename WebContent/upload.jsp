@@ -7,7 +7,16 @@
 <head>
 <meta charset="UTF-8">
 <title>上传界面</title>
-
+<style type="text/css">
+body{
+ background: url('./images/bg1.jpg') ;
+         background-size: 100%;
+         }
+         a{
+     text-decoration:none;
+     color:white;
+}
+</style>
 </head>
 <body>
 <form action="UpServer" enctype="multipart/form-data" method="post" >

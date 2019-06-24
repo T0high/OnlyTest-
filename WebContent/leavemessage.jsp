@@ -7,6 +7,16 @@
 <head>
 <meta charset="UTF-8">
 <title>留言界面</title>
+<style type="text/css">
+body{
+ background: url('./images/bg1.jpg') ;
+         background-size: 100%;
+         }
+         a{
+     text-decoration:none;
+     color:white;
+}
+</style>
 </head>
 <body  style="font-family:Microsoft YaHei">
   <div style="text-align:center;margin-top:1px" >

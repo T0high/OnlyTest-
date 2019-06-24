@@ -24,6 +24,15 @@
 <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <style type="text/css">
+body{
+         background: url('./images/m1.jpg') ;
+         background-size: 100%; 
+       
+         }
+a{
+     text-decoration:none;
+     
+}
  
  #first{
     width:1000px;
@@ -176,7 +185,6 @@ $(document).ready(function(){
 </div>
 </div>
 
-<div id="ford">ford </div>
 
 </body>
 </html>

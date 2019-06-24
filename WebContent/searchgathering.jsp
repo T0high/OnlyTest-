@@ -9,6 +9,16 @@
 <head>
 <meta charset="UTF-8">
 <title>这里是搜索结果界面</title>
+<style type="text/css">
+    body{        
+         background: url('./images/bg1.jpg') ;
+         background-size: 100%;        
+    } 
+    a{
+     text-decoration:none;
+     color:white;
+}
+    </style>
 </head>
 <body>
 

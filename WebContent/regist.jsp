@@ -6,6 +6,17 @@
 <head>
 <meta charset="UTF-8">
 <title>这里是注册界面</title>
+<style type="text/css">
+body{
+         background: url('./images/math.jpeg') ;
+         background-size: 100%; 
+         color:white;
+         }
+a{
+     text-decoration:none;
+     color:white;
+}
+         </style>
 </head>
 <body>
 <center>

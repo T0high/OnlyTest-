@@ -8,6 +8,16 @@
 <head>
 <meta charset="UTF-8">
 <title>下载文件显示页</title>
+<style type="text/css">
+body{
+ background: url('./images/bg1.jpg') ;
+         background-size: 100%;
+         }
+         a{
+     text-decoration:none;
+     color:white;
+}
+</style>
 </head>
 <body>
   <!-- 遍历Map集合 -->

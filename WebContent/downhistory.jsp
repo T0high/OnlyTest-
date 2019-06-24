@@ -11,6 +11,16 @@ java.util.Map,java.util.Iterator" contentType="text/html; charset=UTF-8"
 <head>
 <meta charset="UTF-8">
 <title>这里是显示下载历史记录界面</title>
+<style type="text/css">
+body{
+ background: url('./images/bg1.jpg') ;
+         background-size: 100%;
+         }
+         a{
+     text-decoration:none;
+     color:white;
+}
+</style>
 </head>
 <body>
 <center>

@@ -6,7 +6,17 @@
 <head>
 <meta charset="UTF-8">
 <title>管理员登录界面</title>
-
+<style type="text/css">
+ body{
+         background: url('./images/login.jpg') ;
+         background-size: 100%; 
+         color:white;
+         }
+a{
+     text-decoration:none;
+     color:white;
+}
+</style>
 </head>
 <body>
 <center>

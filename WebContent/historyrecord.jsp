@@ -4,14 +4,33 @@
     <!-- 历史记录功能界面 -->
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8">
-<title>这里是历史记录界面</title>
-</head>
+<style type="text/css">
+    body{        
+         background: url('./images/bg1.jpg') ;
+         background-size: 100%;        
+    } 
+    a{
+     text-decoration:none;
+     color:white;
+}
+    .id{
+      font-size:24px; 
+      font-weight:430px;
+      display:block;
+      align-items：center;
+      margin:0 auto;
+    }
+    a{
+     text-decoration:none;
+     
+}
+</style>
 <body>
-<div align="center">
-<h2><a href="UpHistoryServer">上传历史</a></h2>
-<br><h2><a href="DownHistoryServer">下载历史</a></h2>
-</div>
+ <a href="UpHistoryServer"><button class="id">上传历史</button></a>
+ 
+      <br><br><br> 
+ <a href="DownHistoryServer"><button class="id">下载历史</button></a>
+
+
 </body>
 </html>
